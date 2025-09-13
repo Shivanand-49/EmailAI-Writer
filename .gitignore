@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+emailai-writer-react/node_modules/
+
