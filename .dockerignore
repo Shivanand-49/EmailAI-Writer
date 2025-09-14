@@ -1,0 +1,8 @@
+target
+.git
+.gitignore
+node_modules
+emailai-writer-react/node_modules
+emailai-writer-react/build
+.DS_Store
+.vscode
