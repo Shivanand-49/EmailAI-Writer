@@ -4,7 +4,7 @@ import { Box, Button, CircularProgress, Container, FormControl, Input, InputLabe
 import axios from 'axios';
 const API_BASE = import.meta.env.VITE_API_BASE;
 
-console.log("API_BASE from .env:", import.meta.env.VITE_API_BASE);
+// console.log("API_BASE from .env:", import.meta.env.VITE_API_BASE);
 
 
 function App() {
